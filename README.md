@@ -1,25 +1,36 @@
-# Zepto SQL Analysis
+# 🛒 Zepto SQL Data Analysis
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyzes Zepto dataset using SQL.
+This project analyzes a Zepto grocery dataset using SQL to extract meaningful business insights.
 
-## Tools Used
+## 🧰 Tools Used
 
 * MySQL Workbench
 * SQL
 
-## What I Did
+## 📊 Dataset
 
-* Data cleaning
-* Used SELECT, GROUP BY
-* Used CASE WHEN
-* Found insights from data
+* Zepto product dataset (Kaggle)
 
-## Files
+## 🔍 Key Analysis
 
-* analysis.sql (contains all queries)
+* Total number of products
+* Category-wise product distribution
+* Price and discount analysis
+* Inventory weight analysis
+* Product categorization using CASE WHEN
 
-## Conclusion
+## 💡 Key Insights
 
-Learned SQL basics and data analysis.
+* Fruits & Vegetables have the highest number of products
+* Discounts vary significantly across categories
+* Inventory weight differs by product type
+
+## 📁 Files
+
+* analysis.sql → contains all SQL queries
+
+## 🚀 Conclusion
+
+This project helped me practice SQL concepts like SELECT, GROUP BY, CASE WHEN, and data transformation.
